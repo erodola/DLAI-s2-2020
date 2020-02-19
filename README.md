@@ -1,4 +1,4 @@
-## Deep Learning and Applied AI
+## Deep Learning & Applied AI
 
 Course material
 
