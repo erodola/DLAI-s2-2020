@@ -42,3 +42,6 @@ The project must follow one of these formats:
 ------------ | ------------- | ------------ | ------------
 | | |
 Mon 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/01_intro/01-intro.pdf) | 
+| | |
+Wed 26 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/02_data/02-data.pdf) |
+| | |
