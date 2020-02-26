@@ -45,3 +45,5 @@ Mon 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2020/raw
 | | |
 Wed 26 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/02_data/02-data.pdf) |
 | | |
+Mon 02 Mar | Recap of linear algebra | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/03_linalg/03-linalg.pdf) |
+| | |
