@@ -47,3 +47,5 @@ Wed 26 Feb | Data, features, and embeddings | [slides](https://github.com/erodol
 | | |
 Mon 02 Mar | Recap of linear algebra | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/03_linalg/03-linalg.pdf) |
 | | |
+Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) |
+| | |
