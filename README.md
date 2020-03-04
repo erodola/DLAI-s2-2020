@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **24/02/2020:** Lessons start!
+- **04/03/2020:** Please **bring your laptop on 09/03/2020**; we will split the lecture in a theoretical and in a coding part.
 
 ### Logistics
 
@@ -47,7 +47,7 @@ Wed 26 Feb | Data, features, and embeddings | [slides](https://github.com/erodol
 | | |
 Mon 02 Mar | Recap of linear algebra | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/03_linalg/03-linalg.pdf) |
 | | |
-Wed 04 Mar | [Code] PyTorch basics | |
+Wed 04 Mar | [Code] PyTorch basics | | [notebook](https://nbviewer.jupyter.org/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb) ; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13VcH9ngk5YD0HzeG3-modfncjaF2TyqW)
 | | |
 Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) |
 | | |
