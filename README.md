@@ -38,6 +38,8 @@ The project must follow one of these formats:
 
 ### Lectures
 
+For all the code in one place, visit the [tutorial page](https://lucmos.github.io/DLAI-s2-2020-tutorials/).
+
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
 | | |
@@ -47,7 +49,7 @@ Wed 26 Feb | Data, features, and embeddings | [slides](https://github.com/erodol
 | | |
 Mon 02 Mar | Recap of linear algebra | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/03_linalg/03-linalg.pdf) |
 | | |
-Wed 04 Mar | [Code] PyTorch basics | [notebook](https://nbviewer.jupyter.org/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13VcH9ngk5YD0HzeG3-modfncjaF2TyqW)
+Wed 04 Mar | [Code] PyTorch basics | [notebook](https://nbviewer.jupyter.org/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb)
 | | |
 Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) |
 | | |
