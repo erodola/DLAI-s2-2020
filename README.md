@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **04/03/2020:** Please **bring your laptop on 09/03/2020**; we will split the lecture in a theoretical and in a coding part.
+- **04/03/2020:** **Lectures are cancelled until March 15**. Please keep checking this page for information on how we will proceed in these 10 days.
 
 ### Logistics
 
