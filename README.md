@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **04/03/2020:** **Lectures are cancelled until March 15**. Please keep checking this page for information on how we will proceed in these 10 days.
+- **08/03/2020:** Until further notice, starting March 09 **all the lectures will be pre-recorded** and will be available for **download/streaming** from this page. Any questions or doubts about the lecture topics will be answered via email.
 
 ### Logistics
 
