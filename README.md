@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **08/03/2020:** Until further notice, starting March 09 **all the lectures will be pre-recorded** and will be available for **download/streaming** from this page. Any questions or doubts about the lecture topics will be answered via email.
+- **09/03/2020:** The pre-recorded lecture of 09 March is now available for **streaming**. Any questions or doubts will be answered via email. Please also download the latest versions of the slides (fixed some typos).
 
 ### Logistics
 
@@ -51,5 +51,7 @@ Mon 02 Mar | Recap of linear algebra | [slides](https://github.com/erodola/DLAI-
 | | |
 Wed 04 Mar | [Code] PyTorch basics | [notebook](https://nbviewer.jupyter.org/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb)
 | | |
-Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) |
+Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) [video](https://www.youtube.com/watch?v=QP82n2GvtEc) |
+| | |
+Wed 11 Mar |  |  |
 | | |
