@@ -51,7 +51,7 @@ Mon 02 Mar | Recap of linear algebra | [slides](https://github.com/erodola/DLAI-
 | | |
 Wed 04 Mar | [Code] PyTorch basics | [notebook](https://nbviewer.jupyter.org/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb)
 | | |
-Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) [video](https://www.youtube.com/watch?v=QP82n2GvtEc) |
+Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) | [video](https://www.youtube.com/watch?v=QP82n2GvtEc) |
 | | |
 Wed 11 Mar |  |  |
 | | |
