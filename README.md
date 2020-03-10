@@ -53,5 +53,5 @@ Wed 04 Mar | [Code] Tensors | [notebook](https://nbviewer.jupyter.org/github/luc
 | | |
 Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) ; [video](https://www.youtube.com/watch?v=QP82n2GvtEc) |
 | | |
-Wed 11 Mar | Matrix meta-mechanics ; [Code] Tensors operations | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf) ; [video](https://www.youtube.com/watch?v=mFYC6mh6UO8) ; [notebook - to come] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)
+Wed 11 Mar | Matrix meta-mechanics ; [Code] Tensors operations | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf) ; [video](https://www.youtube.com/watch?v=mFYC6mh6UO8) ; [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)
 | | |
