@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **09/03/2020:** The pre-recorded lecture of 09 March is now available for **streaming**. Any questions or doubts will be answered via email. Please also download the latest versions of the slides (fixed some typos).
+- **10/03/2020:** The pre-recorded lecture of March 11th, together with the **second part of the PyTorch tutorial** are now available. Any questions or doubts will be answered via email.
 
 ### Logistics
 
@@ -49,9 +49,9 @@ Wed 26 Feb | Data, features, and embeddings | [slides](https://github.com/erodol
 | | |
 Mon 02 Mar | Recap of linear algebra | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/03_linalg/03-linalg.pdf) |
 | | |
-Wed 04 Mar | [Code] PyTorch basics | [notebook](https://nbviewer.jupyter.org/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb)
+Wed 04 Mar | [Code] Tensors | [notebook](https://nbviewer.jupyter.org/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb)
 | | |
 Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) ; [video](https://www.youtube.com/watch?v=QP82n2GvtEc) |
 | | |
-Wed 11 Mar |  |  |
+Wed 11 Mar | Matrix meta-mechanics ; [Code] Tensors operations | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf) ; [video](https://www.youtube.com/watch?v=mFYC6mh6UO8) ; [notebook - to come] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)
 | | |
