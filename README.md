@@ -55,3 +55,5 @@ Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://gith
 | | |
 Wed 11 Mar | Matrix meta-mechanics ; [Code] Tensors operations | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf) ; [video](https://www.youtube.com/watch?v=mFYC6mh6UO8) ; [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)
 | | |
+Mon 16 Mar | Going nonlinear, overfitting, and regularization | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/05_nonlinear/05-nonlinear.pdf) ; [video -  come] |
+| | |
