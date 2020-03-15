@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **10/03/2020:** The pre-recorded lecture of March 11th, together with the **second part of the PyTorch tutorial** are now available. Any questions or doubts will be answered via email.
+- **15/03/2020:** The pre-recorded lecture of March 16th is now available. Any questions or doubts will be answered via email.
 
 ### Logistics
 
@@ -55,5 +55,5 @@ Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://gith
 | | |
 Wed 11 Mar | Matrix meta-mechanics ; [Code] Tensors operations | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf) ; [video](https://www.youtube.com/watch?v=mFYC6mh6UO8) ; [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)
 | | |
-Mon 16 Mar | Going nonlinear, overfitting, and regularization | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/05_nonlinear/05-nonlinear.pdf) ; [video -  come] |
+Mon 16 Mar | Going nonlinear, overfitting, and regularization | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/05_nonlinear/05-nonlinear.pdf) ; [video](https://www.youtube.com/watch?v=0anGdn1Vtq8) |
 | | |
