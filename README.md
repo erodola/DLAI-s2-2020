@@ -4,6 +4,8 @@ Course material
 
 ### News
 
+- **16/03/2020:** Youtube captions seem to work extremely well. Please feel free to turn on the subtitles, which incidentally also give you course notes for free.
+
 - **15/03/2020:** The pre-recorded lecture of March 16th is now available. Any questions or doubts will be answered via email.
 
 ### Logistics
