@@ -59,3 +59,5 @@ Wed 11 Mar | Matrix meta-mechanics ; [Code] Tensors operations | [slides](https:
 | | |
 Mon 16 Mar | Going nonlinear, overfitting, and regularization | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/05_nonlinear/05-nonlinear.pdf) ; [video](https://www.youtube.com/watch?v=0anGdn1Vtq8) |
 | | |
+Wed 18 Mar | [Code] Linear models & PyTorch datasets | [notebook - coming up] |
+| | |
