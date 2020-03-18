@@ -4,9 +4,9 @@ Course material
 
 ### News
 
-- **16/03/2020:** Youtube captions seem to work extremely well. Please feel free to turn on the subtitles, which incidentally also give you course notes for free.
+- **18/03/2020:** The tutorial for March 18th is now available.
 
-- **15/03/2020:** The pre-recorded lecture of March 16th is now available. Any questions or doubts will be answered via email.
+- **16/03/2020:** Youtube captions seem to work extremely well. Please feel free to turn on the subtitles, which incidentally also give you course notes for free.
 
 ### Logistics
 
@@ -55,9 +55,9 @@ Wed 04 Mar | [Code] Tensors | [notebook](https://nbviewer.jupyter.org/github/luc
 | | |
 Mon 09 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04-linear.pdf) ; [video](https://www.youtube.com/watch?v=QP82n2GvtEc) |
 | | |
-Wed 11 Mar | Matrix meta-mechanics ; [Code] Tensors operations | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf) ; [video](https://www.youtube.com/watch?v=mFYC6mh6UO8) ; [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)
+Wed 11 Mar | Matrix meta-mechanics ; [Code] Tensor operations | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf) ; [video](https://www.youtube.com/watch?v=mFYC6mh6UO8) ; [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)
 | | |
 Mon 16 Mar | Going nonlinear, overfitting, and regularization | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/05_nonlinear/05-nonlinear.pdf) ; [video](https://www.youtube.com/watch?v=0anGdn1Vtq8) |
 | | |
-Wed 18 Mar | [Code] Linear models & PyTorch datasets | [notebook - coming up] |
+Wed 18 Mar | [Code] Linear models & PyTorch datasets | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb)
 | | |
