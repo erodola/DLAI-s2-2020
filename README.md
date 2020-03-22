@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **18/03/2020:** The tutorial for March 18th is now available.
+- **22/03/2020:** The lecture slides for March 23rd are now available.
 
 - **16/03/2020:** Youtube captions seem to work extremely well. Please feel free to turn on the subtitles, which incidentally also give you course notes for free.
 
@@ -60,4 +60,6 @@ Wed 11 Mar | Matrix meta-mechanics ; [Code] Tensor operations | [slides](https:/
 Mon 16 Mar | Going nonlinear, overfitting, and regularization | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/05_nonlinear/05-nonlinear.pdf) ; [video](https://www.youtube.com/watch?v=0anGdn1Vtq8) |
 | | |
 Wed 18 Mar | [Code] Linear models & PyTorch datasets | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb)
+| | |
+Mon 23 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/06-sgd.pdf) ; [video](https://www.youtube.com/watch?v=v_B6jHOqr9E) | [2D gradient demo (Matlab)](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/grad2d.m)
 | | |
