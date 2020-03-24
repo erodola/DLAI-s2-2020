@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **22/03/2020:** The lecture slides for March 23rd are now available.
+- **24/03/2020:** One slide added to [matrix meta-mechanics](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf), explaining why gradient and trace can not be swapped.
 
 - **16/03/2020:** Youtube captions seem to work extremely well. Please feel free to turn on the subtitles, which incidentally also give you course notes for free.
 
