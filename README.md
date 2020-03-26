@@ -4,6 +4,8 @@ Course material
 
 ### News
 
+- **26/03/2020:** The tutorial of March 25th is now available for download.
+
 - **24/03/2020:** One slide added to [matrix meta-mechanics](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf), explaining why gradient and trace can not be swapped.
 
 - **16/03/2020:** Youtube captions seem to work extremely well. Please feel free to turn on the subtitles, which incidentally also give you course notes for free.
@@ -62,4 +64,6 @@ Mon 16 Mar | Going nonlinear, overfitting, and regularization | [slides](https:/
 Wed 18 Mar | [Code] Linear models & PyTorch datasets | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb)
 | | |
 Mon 23 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/06-sgd.pdf) ; [video](https://www.youtube.com/watch?v=v_B6jHOqr9E) | [2D gradient demo (Matlab)](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/grad2d.m)
+| | |
+Wed 25 Mar | [Code] Logistic regression and optimization | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/04/4_Logistic_Regression_and_Optimization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/04/4_Logistic_Regression_and_Optimization.ipynb)
 | | |
