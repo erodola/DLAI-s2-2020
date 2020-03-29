@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **26/03/2020:** The tutorial of March 25th is now available for download.
+- **29/03/2020:** The slides for March 30th are now available for download. Also, fixed a typo in [lecture 06](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/06-sgd.pdf) in the unrolling steps for gradient descent and momentum.
 
 - **24/03/2020:** One slide added to [matrix meta-mechanics](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf), explaining why gradient and trace can not be swapped.
 
@@ -66,4 +66,6 @@ Wed 18 Mar | [Code] Linear models & PyTorch datasets | [notebook](https://github
 Mon 23 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/06-sgd.pdf) ; [video](https://www.youtube.com/watch?v=v_B6jHOqr9E) | [2D gradient demo (Matlab)](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/grad2d.m)
 | | |
 Wed 25 Mar | [Code] Logistic regression and optimization | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/04/4_Logistic_Regression_and_Optimization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/04/4_Logistic_Regression_and_Optimization.ipynb)
+| | |
+Mon 30 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/07_mlp/07-mlp.pdf) ; [video](https://www.youtube.com/watch?v=HKqbQ-cP92Q) | 
 | | |
