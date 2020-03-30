@@ -4,9 +4,9 @@ Course material
 
 ### News
 
-- **29/03/2020:** The slides for March 30th are now available for download. Also, fixed a typo in [lecture 06](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/06-sgd.pdf) in the unrolling steps for gradient descent and momentum.
+- **30/03/2020:** On **Wed 08 April at 08:30am** there will be a **live lecture on Google Meet**, to address any doubts or questions you might have on the tutorials. Please **send all your questions via email** to Rodolà, Moschella and Norelli by Monday 06 April at the latest, so that we can properly organize the FAQ session.
 
-- **24/03/2020:** One slide added to [matrix meta-mechanics](https://github.com/erodola/DLAI-s2-2020/raw/master/04_linear/04b-matrix.pdf), explaining why gradient and trace can not be swapped.
+- **29/03/2020:** The slides for March 30th are now available for download. Also, fixed a typo in [lecture 06](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/06-sgd.pdf) in the unrolling steps for gradient descent and momentum.
 
 - **16/03/2020:** Youtube captions seem to work extremely well. Please feel free to turn on the subtitles, which incidentally also give you course notes for free.
 
