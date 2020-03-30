@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **30/03/2020:** On **Wed 08 April at 08:30am** there will be a **live lecture on Google Meet**, to address any doubts or questions you might have on the tutorials. Please **send all your questions via email** to Rodolà, Moschella and Norelli by Monday 06 April at the latest, so that we can properly organize the FAQ session.
+- **30/03/2020:** On **Wed 08 April at 08:30am** there will be a **live lecture on Google Meet**, to address any doubts or questions you might have on the tutorials. Please **send all your questions via email** to Rodolà, Moschella and Norelli by Monday 06 April at the latest, so that we can properly organize the FAQ session. Note that the live lecture does not replace the usual tutorial, but is an addition to it.
 
 - **29/03/2020:** The slides for March 30th are now available for download. Also, fixed a typo in [lecture 06](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/06-sgd.pdf) in the unrolling steps for gradient descent and momentum.
 
