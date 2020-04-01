@@ -8,8 +8,6 @@ Course material
 
 - **29/03/2020:** The slides for March 30th are now available for download. Also, fixed a typo in [lecture 06](https://github.com/erodola/DLAI-s2-2020/raw/master/06_sgd/06-sgd.pdf) in the unrolling steps for gradient descent and momentum.
 
-- **16/03/2020:** Youtube captions seem to work extremely well. Please feel free to turn on the subtitles, which incidentally also give you course notes for free.
-
 ### Logistics
 
 **Lecturer:** Prof. Emanuele Rodolà
@@ -43,6 +41,8 @@ The project must follow one of these formats:
 ### Lectures
 
 For all the code in one place, visit the [tutorial page](https://lucmos.github.io/DLAI-s2-2020-tutorials/).
+
+Note on the videos: Youtube **subtitles** seem to work quite well. If you find the recorded voice a bit too muffled, turning on the subtitles should help. Incidentally, this also gives you quasi-course notes for free.
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
