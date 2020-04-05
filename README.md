@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **03/04/2020:** The tutorial for April 1st is now available.
+- **05/04/2020:** The lecture slides for April 6th are now available.
 
 - **30/03/2020:** On **Wed 08 April at 08:30am** there will be a **live lecture on Google Meet**, to address any doubts or questions you might have on the tutorials. Please **send all your questions via email** to Rodolà, Moschella and Norelli by Monday 06 April at the latest, so that we can properly organize the FAQ session. Note that the live lecture does not replace the usual tutorial, but is an addition to it.
 
@@ -70,4 +70,6 @@ Wed 25 Mar | [Code] Logistic regression and optimization | [notebook](https://gi
 Mon 30 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/07_mlp/07-mlp.pdf) ; [video](https://www.youtube.com/watch?v=HKqbQ-cP92Q) | 
 | | |
 Wed 01 Apr | [Code] Autograd and modules | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/05/5_Autograd_and_Modules.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/05/5_Autograd_and_Modules.ipynb)
+| | |
+Mon 06 Apr | Convolutional neural networks | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/08_cnn/08-cnn.pdf) ; [video](https://www.youtube.com/watch?v=d7YMP-PnD7Y) | 
 | | |
