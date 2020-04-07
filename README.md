@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **07/04/2020:** Please use the following Google Meet link for Wed 08 April, 8:30am: [https://meet.google.com/xmj-dgmq-vis?authuser=1](https://meet.google.com/xmj-dgmq-vis?authuser=1)
+- **07/04/2020:** The Google Meet link for Wed 08 April **will be posted here at 08:20am**.
 
 - **05/04/2020:** The lecture slides for April 6th are now available.
 
