@@ -4,6 +4,8 @@ Course material
 
 ### News
 
+- **07/04/2020:** Please use the following Google Meet link for Wed 08 April, 8:30am: [https://meet.google.com/xmj-dgmq-vis?authuser=1](https://meet.google.com/xmj-dgmq-vis?authuser=1)
+
 - **05/04/2020:** The lecture slides for April 6th are now available.
 
 - **30/03/2020:** On **Wed 08 April at 08:30am** there will be a **live lecture on Google Meet**, to address any doubts or questions you might have on the tutorials. Please **send all your questions via email** to Rodolà, Moschella and Norelli by Monday 06 April at the latest, so that we can properly organize the FAQ session. Note that the live lecture does not replace the usual tutorial, but is an addition to it.
