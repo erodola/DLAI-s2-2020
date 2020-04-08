@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **07/04/2020:** The Google Meet link for Wed 08 April **will be posted here at 08:20am**.
+- **08/04/2020:** The Google Meet link for Wed 08 April is: [https://meet.google.com/wck-xbjs-tpn](https://meet.google.com/wck-xbjs-tpn)
 
 - **05/04/2020:** The lecture slides for April 6th are now available.
 
