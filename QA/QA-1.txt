@@ -1,0 +1,285 @@
+00:01:20.475,00:01:23.475
+umberto valleriani: Yes
+
+00:01:22.894,00:01:25.894
+Marzia Riso: Yes
+
+00:02:39.094,00:02:42.094
+umberto valleriani: I didn't
+
+00:02:58.474,00:03:01.474
+donato crisostomi: I did 
+
+00:03:05.886,00:03:08.886
+francesco veneziano: yes
+
+00:03:06.942,00:03:09.942
+valerio mannucci: yes
+
+00:03:10.913,00:03:13.913
+riccardo taiello: yes
+
+00:03:21.605,00:03:24.605
+daniele baieri: Me too
+
+00:03:26.690,00:03:29.690
+Simone Antonelli: yes
+
+00:03:34.086,00:03:37.086
+andrea caciolai: yes
+
+00:03:38.636,00:03:41.636
+mattia capparella: I did send th3 solution to prof Rodolà
+
+00:04:07.531,00:04:10.531
+donato crisostomi: yes give me one second to get colab working
+
+00:05:31.699,00:05:34.699
+mattia capparella: Ok
+
+00:05:46.621,00:05:49.621
+donato crisostomi: yes, almost done
+
+00:10:36.910,00:10:39.910
+shadi andishmand: I don’t have any voicevoice
+
+00:10:50.831,00:10:53.831
+Emanuele Rodola': in the sense that you can't hear us?
+
+00:11:11.388,00:11:14.388
+umberto valleriani: Einstein sum notation isn't really clear for me
+
+00:11:24.671,00:11:27.671
+shadi andishmand: Yes i was hearing but now anything
+
+00:11:42.220,00:11:45.220
+andrea caciolai: umberto try this link https://stackoverflow.com/questions/26089893/understanding-numpys-einsum
+
+00:11:45.454,00:11:48.454
+umberto valleriani: I think i understand the basics but don't understand the explicit form
+
+00:11:55.977,00:11:58.977
+andrea caciolai: it helped me out a lot understanding
+
+00:12:05.483,00:12:08.483
+umberto valleriani: Thanks
+
+00:13:01.466,00:13:04.466
+Emanuele Rodola': shadi, try to logout and login again, and try to close all the applications that use sound / mic
+
+00:16:28.104,00:16:31.104
+umberto valleriani: Ok thanks a lot
+
+00:20:08.987,00:20:11.987
+leonardo torcellini: how do you tell which is the max size your gpu can fit?
+
+00:21:26.622,00:21:29.622
+Emanuele Giona: i usually try to instantiate the model with a given batch size, if it works i try to increase it until i get a memory error during allocation
+
+00:25:06.488,00:25:09.488
+leonardo torcellini: ok thanks
+
+00:26:33.672,00:26:36.672
+denis stanev: Yes, we can see it.
+
+00:31:01.224,00:31:04.224
+Luca Moschella: https://discuss.pytorch.org/t/what-is-adaptiveavgpool2d/26897/2?u=ptrblck
+
+00:31:46.799,00:31:49.799
+Marzia Riso: Got it, thanks!
+
+00:31:47.476,00:31:50.476
+shadi andishmand: no its clear
+
+00:31:50.590,00:31:53.590
+shadi andishmand: thanks
+
+00:45:26.974,00:45:29.974
+shadi andishmand: professor could you explain a little about reproducibility when we run same data on same algorithm but we have differnt result sometimes! and when we should do it or before which algoritms? for ex in kfold or random forest e have a parameter random_state. so does it effect or not?
+
+00:45:56.611,00:45:59.611
+Emanuele Rodola': ok noted
+
+00:46:32.267,00:46:35.267
+francesco veneziano: i see your screen too small
+
+00:46:43.680,00:46:46.680
+francesco veneziano: it's ok
+
+00:46:46.871,00:46:49.871
+Emanuele Rodola': francesco i see it perfectly
+
+00:46:48.266,00:46:51.266
+Emanuele Rodola': ok
+
+00:47:03.112,00:47:06.112
+valentina de paolis: me too
+
+00:49:31.097,00:49:34.097
+francesco veneziano: yes thanks
+
+00:53:14.185,00:53:17.185
+shadi andishmand: thanks a lot .so when intialise seed the weights update each time in same huristic way? i mean backpropagation part? 
+
+00:53:17.615,00:53:20.615
+denis stanev: How big of a performance impact does the deterministic mode have?
+
+00:53:19.781,00:53:22.781
+shadi andishmand: yes
+
+00:53:25.290,00:53:28.290
+Valerio Neri: Is it a good practice to set the random seeds manually on a project? Should we always set them?
+
+00:54:48.694,00:54:51.694
+shadi andishmand: thanks a lot professor
+
+00:55:29.285,00:55:32.285
+shadi andishmand: yes it is slowing working even with gpu
+
+00:55:35.705,00:55:38.705
+valerio mannucci: shoulden't the error for validation set  increase a lot when the degree became big?(about last graph)
+
+00:56:01.917,00:56:04.917
+valerio mannucci: i can't see in last graph
+
+00:56:32.864,00:56:35.864
+valerio mannucci: ok thanks
+
+00:59:02.378,00:59:05.378
+francesco veneziano: yes, but the problem pointed out in jupyter, not in colab
+
+01:00:06.972,01:00:09.972
+francesco veneziano: ok thanks
+
+01:00:14.666,01:00:17.666
+umberto valleriani: Just a casual question: in the last lesson (about CNNs) you mentioned we're going to see some applications on graphs. Could you anticipate a bit on what are they?
+
+01:01:44.613,01:01:47.613
+umberto valleriani: Sounds cool, thanks
+
+01:05:33.969,01:05:36.969
+shadi andishmand: some libraries like plotly have some problem in pycharm. i use scientific mode of pycharm and can plot by matplotlib but i imported plotly and it was successful . i run the project without any error but i cant see the plot that i can see in jupyter or google colab. i wanted to ask its about pycharm limitation in ploting with some library?
+
+01:06:46.889,01:06:49.889
+shadi andishmand: thanks a lot 
+
+01:08:06.575,01:08:09.575
+Andrea Rosati: lol
+
+01:10:47.687,01:10:50.687
+valerio mannucci: could you explain the utility of detach() in a learning model
+
+01:10:47.736,01:10:50.736
+dario aragona: when saving colab notebooks I often get an "automatic save pending for X minutes" and it stucks
+
+01:10:52.513,01:10:55.513
+Luca Moschella: Shadi I re-read your question, if you have problems even to only show the plot in the browser tab, be sure to call the `.show()` on the fig obj
+
+01:11:02.968,01:11:05.968
+dario aragona: does anybody else get the same error?
+
+01:13:06.378,01:13:09.378
+valerio mannucci: thanks
+
+01:13:08.976,01:13:11.976
+shadi andishmand: i did that luca . i have plot for matplotlib but no plot for pltly even with no error. i should say i use ubunto.  if i dont find any good way to ploting maybe i use google colab . thanks
+
+01:14:49.694,01:14:52.694
+dario aragona: it's strange because my connection works, and also if I manual save it  gets stuck
+
+01:14:53.852,01:14:56.852
+dario aragona: but I'll google it
+
+01:14:56.859,01:14:59.859
+dario aragona: thanks!
+
+01:15:02.436,01:15:05.436
+Emanuele Rodola': also try changing browser
+
+01:15:04.112,01:15:07.112
+dario aragona: yes I use Chrome
+
+01:15:04.610,01:15:07.610
+Emanuele Rodola': right
+
+01:15:17.946,01:15:20.946
+Emanuele Rodola': try disabling AdBlock
+
+01:15:38.968,01:15:41.968
+dario aragona: Yes, I download the notebook and upload it on my drive
+
+01:15:45.621,01:15:48.621
+dario aragona: Ok I'll check
+
+01:17:09.450,01:17:12.450
+shadi andishmand: thanks a lot professor . happy easter.
+
+01:17:19.055,01:17:22.055
+Emanuele Giona: goodbye prof
+
+01:17:19.195,01:17:22.195
+francesco veneziano: it's ok, thanks professors. Happy easter
+
+01:17:19.876,01:17:22.876
+dario aragona: Thank you, happy holidays
+
+01:17:22.463,01:17:25.463
+mohammad kamel: Thank you. bye
+
+01:17:23.977,01:17:26.977
+donato crisostomi: thanks, goodbye and happy holidays
+
+01:17:25.313,01:17:28.313
+umberto valleriani: Bye thanks
+
+01:17:26.215,01:17:29.215
+Simone Antonelli: Goobye
+
+01:17:26.450,01:17:29.450
+andrea caciolai: thanks goodbye
+
+01:17:27.692,01:17:30.692
+davide sforza: Bye!
+
+01:17:27.739,01:17:30.739
+daniele baieri: Okay, thank you very much. Bye
+
+01:17:28.766,01:17:31.766
+Antonio Musolino: Goodbye
+
+01:17:28.815,01:17:31.815
+riccardo taiello: thanks bye
+
+01:17:28.967,01:17:31.967
+Valerio Neri: Goodbye
+
+01:17:29.572,01:17:32.572
+denis stanev: Goodbye.
+
+01:17:30.052,01:17:33.052
+seid koudia: thank you bye 
+
+01:17:31.672,01:17:34.672
+leonardo torcellini: goodbye
+
+01:17:36.207,01:17:39.207
+stefano esposito: thanks and goodbyw
+
+01:17:37.095,01:17:40.095
+Marzia Riso: Thank you so much! Have a nice day
+
+01:17:37.141,01:17:40.141
+luca podo: thanks bye
+
+01:17:38.408,01:17:41.408
+mattia capparella: Bye bye! Happy holidays!
+
+01:17:40.790,01:17:43.790
+shadi andishmand: goodbye luca and antonio . happy easter too
+
+01:17:42.679,01:17:45.679
+valentina de paolis: good bye
+
+01:17:43.027,01:17:46.027
+shadi andishmand: bye
+
