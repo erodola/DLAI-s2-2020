@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **10/04/2020:** The tutorial for April 8th is now available.
+- **14/04/2020:** The lecture slides for April 15th are now available.
 
 ### Logistics
 
@@ -72,4 +72,6 @@ Wed 01 Apr | [Code] Autograd and modules | [notebook](https://github.com/lucmos/
 Mon 06 Apr | Convolutional neural networks | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/08_cnn/08-cnn.pdf) ; [video](https://www.youtube.com/watch?v=d7YMP-PnD7Y) | 
 | | |
 Wed 08 Apr | Q&A ; [Code] Convolutional neural networks | [Q&A chat](https://raw.githubusercontent.com/erodola/DLAI-s2-2020/master/QA/QA-1.txt) ; [Q&A video](https://www.youtube.com/watch?v=PcHhd4ZCejc) ; [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/06/6_Convolutional_Neural_Networks.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/06/6_Convolutional_Neural_Networks.ipynb)
+| | |
+Wed 15 Apr | Regularization | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/09_regular/09-regular.pdf) ; [video - upcoming] | 
 | | |
