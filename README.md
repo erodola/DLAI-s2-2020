@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **14/04/2020:** The lecture slides for April 15th are now available.
+- **19/04/2020:** There will be no lecture on April 20th.
 
 ### Logistics
 
