@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **19/04/2020:** There will be no lecture on April 20th.
+- **21/04/2020:** The projects lecture has now been uploaded. There is still time, but we encourage you to start thinking of a project for the final exam.
 
 ### Logistics
 
@@ -75,5 +75,5 @@ Wed 08 Apr | Q&A ; [Code] Convolutional neural networks | [Q&A chat](https://raw
 | | |
 Wed 15 Apr | Regularization | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/09_regular/09-regular.pdf) ; [video](https://www.youtube.com/watch?v=WwiFT1Wr0x4) | 
 | | |
-Wed 22 Apr | **Projects** | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/10_projects/10-projects-merged.pdf) ; [video - to come] | 
+Wed 22 Apr | **Projects** | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/10_projects/10-projects-merged.pdf) ; [video](https://youtu.be/8WTO6aFsuY8) | 
 | | |
