@@ -75,5 +75,5 @@ Wed 08 Apr | Q&A ; [Code] Convolutional neural networks | [Q&A chat](https://raw
 | | |
 Wed 15 Apr | Regularization | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/09_regular/09-regular.pdf) ; [video](https://www.youtube.com/watch?v=WwiFT1Wr0x4) | 
 | | |
-Wed 22 Apr | Projects | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/10_projects/10-projects-merged.pdf) ; [video - to come] | 
+Wed 22 Apr | **Projects** | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/10_projects/10-projects-merged.pdf) ; [video - to come] | 
 | | |
