@@ -4,6 +4,8 @@ Course material
 
 ### News
 
+- **28/04/2020:** This week we only do the tutorial. The next theoretical lecture will be on **May 4**.
+
 - **21/04/2020:** The projects lecture has now been uploaded. There is still time, but we encourage you to start thinking of a project for the final exam.
 
 ### Logistics
