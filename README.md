@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **30/04/2020:** The tutorial for this week is now available.
+- **03/05/2020:** The lecture slides and video(s) for May 04 are now available.
 
 - **21/04/2020:** The projects lecture has now been uploaded. There is still time, but we encourage you to start thinking of a project for the final exam.
 
@@ -81,5 +81,5 @@ Wed 22 Apr | **Projects** | [slides](https://github.com/erodola/DLAI-s2-2020/raw
 | | |
 Wed 29 Apr | [Code] Uncertainty, regularization and the deep learning toolset | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb)
 | | |
-Mon 04 May | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/11_generative/11-generative.pdf) ; [video - to come] | 
+Mon 04 May | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/11_generative/11-generative.pdf) ; [video - p1](https://www.youtube.com/watch?v=hvJdj4tmxQ8) ; [video - p2](https://www.youtube.com/watch?v=7TDNZflOPnU) | 
 | | |
