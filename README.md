@@ -80,5 +80,6 @@ Wed 15 Apr | Regularization | [slides](https://github.com/erodola/DLAI-s2-2020/r
 Wed 22 Apr | **Projects** | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/10_projects/10-projects-merged.pdf) ; [video](https://youtu.be/8WTO6aFsuY8) | 
 | | |
 Wed 29 Apr | [Code] Uncertainty, regularization and the deep learning toolset | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb)
+| | |
 Mon 04 May | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/11_generative/11-generative.pdf) ; [video - to come] | 
 | | |
