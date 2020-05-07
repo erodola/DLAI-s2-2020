@@ -4,6 +4,8 @@ Course material
 
 ### News
 
+- **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **LNKUH8AA**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
+
 - **03/05/2020:** The lecture slides and video(s) for May 04 are now available.
 
 - **21/04/2020:** The projects lecture has now been uploaded. There is still time, but we encourage you to start thinking of a project for the final exam.
