@@ -87,3 +87,5 @@ Mon 04 May | Deep generative models | [slides](https://github.com/erodola/DLAI-s
 | | |
 Wed 06 May | [Code] Variational autoencoders | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/08/8_Variational_Autoencoders_(VAEs).ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/08/8_Variational_Autoencoders_(VAEs).ipynb)
 | | |
+Mon 11 May | Geometric deep learning | [slides - to come] ; [video - to come] | 
+| | |
