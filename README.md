@@ -91,5 +91,5 @@ Mon 11 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-
 | | |
 Wed 13 May | [Code - to come] |  | 
 | | |
-Mon 18 May | Adversarial training |  | 
+Mon 18 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/13_adversarial/13-adversarial.pdf) ; [video - to come] | 
 | | |
