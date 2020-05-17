@@ -89,3 +89,7 @@ Wed 06 May | [Code] Variational autoencoders | [notebook](https://github.com/luc
 | | |
 Mon 11 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/12_gdl/12-gdl.pdf) ; [video](https://www.youtube.com/watch?v=Ijh_drAU44o) | 
 | | |
+Wed 13 May | [Code - to come] |  | 
+| | |
+Mon 18 May | Adversarial training |  | 
+| | |
