@@ -4,6 +4,8 @@ Course material
 
 ### News
 
+- **18/05/2020:** The tutorial for May 13th is now available.
+
 - **17/05/2020:** The lecture slides for May 18th are now available.
 
 - **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **LNKUH8AA**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
@@ -89,7 +91,7 @@ Wed 06 May | [Code] Variational autoencoders | [notebook](https://github.com/luc
 | | |
 Mon 11 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/12_gdl/12-gdl.pdf) ; [video](https://www.youtube.com/watch?v=Ijh_drAU44o) | 
 | | |
-Wed 13 May | [Code - to come] |  | 
+Wed 13 May | [Code] Geometric deep learning | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/09/GCN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/09/GCN.ipynb) 
 | | |
 Mon 18 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/13_adversarial/13-adversarial.pdf) ; [video](https://youtu.be/GTPuyqjME3E) | 
 | | |
