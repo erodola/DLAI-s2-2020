@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **18/05/2020:** The tutorial for May 13th is now available.
+- **25/05/2020:** The lecture slides and video for May 25th are now available.
 
 - **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **LNKUH8AA**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
 
@@ -95,7 +95,7 @@ Mon 18 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-
 | | |
 Wed 20 May | [Code - to come] |  | 
 | | |
-Mon 25 May | Conclusions  | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/14_conclusion/14-conclusion.pdf) ; [video - to come] | 
+Mon 25 May | Conclusions  | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/14_conclusion/14-conclusion.pdf) ; [video](https://youtu.be/FCFWOiHXvQM) | 
 | | |
 
 **End**
