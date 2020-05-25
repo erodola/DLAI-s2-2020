@@ -95,3 +95,8 @@ Wed 13 May | [Code] Geometric deep learning | [notebook](https://github.com/lucm
 | | |
 Mon 18 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/13_adversarial/13-adversarial.pdf) ; [video](https://youtu.be/GTPuyqjME3E) | 
 | | |
+Wed 20 May | [Code - to come] |  | 
+| | |
+Mon 25 May | [slides - to come] |  | 
+| | |
+**End**
