@@ -95,7 +95,7 @@ Mon 18 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-
 | | |
 Wed 20 May | [Code - to come] |  | 
 | | |
-Mon 25 May | Conclusions [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/14_conclusion/14-conclusion.pdf) ; [video - to come] |  | 
+Mon 25 May | Conclusions  | [slides](https://github.com/erodola/DLAI-s2-2020/raw/master/14_conclusion/14-conclusion.pdf) ; [video - to come] | 
 | | |
 
 **End**
