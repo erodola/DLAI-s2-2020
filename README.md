@@ -4,11 +4,9 @@ Course material
 
 ### News
 
-- **03/06/2020:** The tutorial for May 20th is now available.
+- **09/06/2020:** Please see the Grading section below for information and dates for the **final exam**.
 
 - **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **LNKUH8AA**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
-
-- **21/04/2020:** The projects lecture has now been uploaded. There is still time, but we encourage you to start thinking of a project for the final exam.
 
 ### Logistics
 
@@ -39,6 +37,12 @@ The project must follow one of these formats:
 - survey on a topic
 - reproduction of a scientific article + your own extra contribution
 - original contribution
+
+Exams will be held in the following week: **29 June to 3 July**. Another range of dates will follow for the July session.
+
+Please register on Infostud, and contact the Professor to fix a specific day and time.
+
+In case of overlap with other exams, we can arrange a different date outside of the given range.
 
 ### Lectures
 
