@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **06/07/2020:** Exam dates for July are **from 13 July to 17 July**. Please register on infostud and contact me to set a specific time and date.
+- **24/08/2020:** Exam dates for August are in the following date ranges: **01-04 Sep, 07-11 Sep, and 14-17 Sep**. Please register on infostud for the date range you wish to take the exam, and contact the Professor to set a specific time and date.
 
 - **07/05/2020:** Please fill out the OPIS questionnaire; the OPIS code for this course is **LNKUH8AA**. Click [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/vadevecum_opis_eng_27_11_2018_002_modalita_compatibilita.pdf) for instructions.
 
@@ -38,11 +38,9 @@ The project must follow one of these formats:
 - reproduction of a scientific article + your own extra contribution
 - original contribution
 
-Exams will be held in the following week: **13 July to 17 July**.
+**The oral examination covers the entire program, not just the project!**
 
 Please register on Infostud, and contact the Professor to fix a specific day and time.
-
-In case of overlap with other exams, we can arrange a different date outside of the given range.
 
 ### Lectures
 
